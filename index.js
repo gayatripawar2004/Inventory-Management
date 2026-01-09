@@ -3,10 +3,10 @@ var bodyparser = require("body-parser");
 var mysql = require("mysql2");
 
 var conn = mysql.createConnection({
-    host: "localhost",
-    user: "root",
-    password: "root",
-    database: "a2z50",
+    host: "bmr0aeblhja9bebpr1pg-mysql.services.clever-cloud.com",
+    user: "uheguemxqrrcuoyv",
+    password: "evMKnpj8ocmyGUVD6qBM",
+    database: "bmr0aeblhja9bebpr1pg",
     port: "3307"
 });
 
